@@ -2,14 +2,48 @@
 
 ## MỘT SỐ BÀI TOÁN TIỂU HỌC: ##
 
-1. Vừa gà vừa chó có 36 con, bó lại cho tròn, có 100 chân chẵn. Hỏi gà bao nhiêu con, chó bao nhiêu con?
+**Bài 1. Vừa gà vừa chó có 36 con, bó lại cho tròn, có 100 chân chẵn. Hỏi gà bao nhiêu con, chó bao nhiêu con?**
 
-**Giải:
+**Giải:**
 
 - Bài toán này các anh chị giải đơn giản, chỉ trong 3 nốt nhạc.
 - Các anh chỉ giả sử tất cả con có đưa 2 chân trước hướng lên trời, lúc này số chân chạm đất của gà và chó đều bằng nhau, mỗi con 2 chân chạm đất, 36 con có $36.2=72$ chân, đề bài cho 100 chân, số chân còn thiếu là $100-72=28$ chân, số chân thiếu chính là số chân trước của chó đưa hướng lên trời mà mỗi con chó có 2 chân trước đưa hướng lên trời, vậy:
   - Số con chó: $\frac{28}{2}=14$
   - Số con gà: $36-14=22$  
+
+**Bài 2. Có 5 đội tham gia dự thi toán đồng đội. Tổng số điểm của cả 5 đội là 144 điểm và thật thú vị là cả 5 đội đều đạt một trong ba giải: nhất (30 điểm); nhì (29 điểm); ba (28 điểm). Chứng minh số đội đạt giải ba hơn số đội đạt giải nhất đúng một đội.**
+
+**Giải:**
+
+- Ta thấy trung bình cộng điểm của một đội giải nhất và một đội giải ba chính là số điểm của một đội giải nhì.
+- Nếu số đội đạt giải nhất bằng số đội đạt giải ba thì tổng số điểm của cả 5 đội là: 29.5 = 145 (điểm) > 144 điểm, không thỏa mãn.
+- Nếu số đội giải nhất nhiều hơn số đội giải ba thì tổng điểm 5 đội lớn hơn 145, cũng không thỏa mãn.
+- Do đó số đội giải nhất phải ít hơn số đội giải ba. Khi đó ta xếp một đội giải nhất và một đội giải ba làm thành một cặp thì cặp này sẽ có tổng số điểm bằng hai đội giải nhì. Số đội giải ba thừa ra (không được xếp cặp với một đội giải nhất) chính là số điểm mà tổng điểm của 5 đội nhỏ hơn 145. Vì vậy số đội giải ba nhiều hơn số đội giải nhất bao nhiêu thì tổng điểm của 5 đội sẽ nhỏ hơn 145 bấy nhiêu.
+- Vì tổng số điểm của cả 5 đội là 144 điểm nên số đội giải ba nhiều hơn số đội giải nhất là 145 - 144 = 1.
+
+**Bài 3: Một người mang cam đi đổi lấy táo và lê. Cứ 9 quả cam thì đổi được 2 quả táo và 1 quả lê, 5 quả táo thì đổi được 2 quả lê. Nếu người đó đổi hết số cam mang đi thì được 17 quả táo và 13 quả lê. Hỏi người đó mang đi bao nhiêu quả cam?**
+
+**Giải:**
+
+- Theo đề: 9 quả cam đổi được 2 quả táo và 1 quả lê, nên 18 quả cam đổi được 4 quả táo và 2 quả lê. Vì 5 quả táo đổi được 2 quả lê nên 18 quả cam đổi được: 4 + 5 = 9 (quả táo). Do đó 2 quả cam đổi được 1 quả táo. Cứ 5 quả táo đổi được 2 quả lê nên 10 quả cam đổi được 2 quả lê. Vậy 5 quả cam đổi được 1 quả lê.
+- Số cam người đó mang đi để đổi được 17 quả táo và 13 quả lê là: 2.17 + 5.13 = 99 (quả)
+
+**Bài tập 4: Tuổi của con hiện nay bằng $\frac{1}{2}$ hiệu tuổi của bố và tuổi con. Bốn năm trước, tuổi con bằng $\frac{1}{3}$ hiệu tuổi của bố và tuổi con. Hỏi khi tuổi con bằng $\frac{1}{4}$ hiệu tuổi của bố và tuổi của con thì tuổi của mỗi người là bao nhiêu?**
+
+**Giải:**
+
+- Hiệu số tuổi của bố và con không đổi.
+- Trước đây 4 năm tuổi con bằng $\frac{1}{3}$ hiệu này, do đó 4 năm chính là: $\frac{1}{2}-\frac{1}{3}=\frac{1}{6}$ (hiệu số tuổi của bố và con).
+- Số tuổi bố hơn con là: $4:\frac{1}{6}=24$ (tuổi).
+- Khi tuổi con bằng $\frac{1}{4}$ hiệu số tuổi của bố và con thì tuổi con là: $24.\frac{1}{4}=6$ (tuổi).
+- Lúc đó tuổi bố là: $6+24=30$ (tuổi).
+
+**Bài tập 5: Hoa có một sợi dây dài 16 mét. Bây giờ Hoa cần cắt đoạn dây đó để có đoạn dây dài 10 mét mà trong tay Hoa chỉ có một cái kéo. Các bạn có biết Hoa cắt thế nào không?**
+
+**Giải:**
+
+- Gấp đôi sợi dây 3 lần ta sẽ được 8 đoạn dây bằng nhau, mỗi đoạn dài: $16:8=2m$
+- Cắt bỏ 3 đoạn, tức $3.2=6m$, đoạn còn lại sẽ là 10m.
 
 ## SỐ HỌC: ##
 ![Số-học](https://github.com/BsNgChiThanh/so-tay-toan/assets/82578024/fb6c6f5b-82be-4b24-a6e6-8c14cef0eadb)
