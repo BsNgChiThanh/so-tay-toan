@@ -68,7 +68,7 @@
 
 **Giải:**
 
-- Tôi cộng thêm $\frac{1}{2}$ chúng tôi được $\frac{3}{2}$ chúng tôi.
+- Chúng tôi cộng thêm $\frac{1}{2}$ chúng tôi được $\frac{3}{2}$ chúng tôi.
 - Mà $\frac{3}{2}$ chúng tôi + 2 bạn cò = 200
 - Vậy: Một phần chúng tôi sẽ là: $(200-2)×2:3=132$ con.
 
