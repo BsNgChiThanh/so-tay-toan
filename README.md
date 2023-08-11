@@ -72,6 +72,17 @@
 - Mà $\frac{3}{2}$ chúng tôi + 2 bạn cò = 200
 - Vậy: Một phần chúng tôi sẽ là: $(200-2)×2:3=132$ con.
 
+**Bài tập 7: Người ta thả một quả bóng từ trên một tháp cao 100m xuống mặt đất. Cứ mỗi lần chạm đất, quả bóng lại nảy lên một độ cao bằng 40% độ cao của nó trước đó. Hỏi sau khi chạm đất lần thứ 5 thì quả bóng đã di chuyển được một quãng đường dài bao nhiêu mét?**
+
+**Giải:**
+
+- Lần 1: Quảng đường đi được 100 m
+- Lần 2: Quảng đường đi được $100.\frac{40}{100}.2=80$ m (Vì nó lên 40% thì nó rơi xuống cũng 40%, tương tự:
+- Lần 3: Quảng đường đi được $80.\frac{1}{2}.\frac{40}{100}.2=32$ m (lần đi lên bằng 40% của một nữa lần 2 ở trên do không tính lần đi xuống của lần 2) 
+- Lần 4: Quảng đường đi được $32.\frac{1}{2}.\frac{40}{100}.2=12,8$ m
+- Lần 5: Quảng đường đi được $12,8.\frac{1}{2}.\frac{40}{100}.2=5,12$ m
+- Đáp số cộng 5 lần ta có được quảng đường: $100+80+32+12,8+5,12=229,92$ m
+
 ## SỐ HỌC: ##
 
 - Chữ số tận cùng của 1 tổng bằng chữ số tận cùng của tổng các chữ số hàng đơn vị của các số hạng trong tổng ấy.
