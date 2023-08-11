@@ -1,6 +1,4 @@
 # SỔ TAY TOÁN HỌC #
-## SỐ HỌC: ##
-![Số-học](https://github.com/BsNgChiThanh/so-tay-toan/assets/82578024/fb6c6f5b-82be-4b24-a6e6-8c14cef0eadb)
 
 ## MỘT SỐ BÀI TOÁN TIỂU HỌC: ##
 
@@ -9,9 +7,12 @@
 **Giải:
 
 - Bài toán này các anh chị giải đơn giản, chỉ trong 3 nốt nhạc.
-- Các anh chỉ giả sử tất cả con có đưa 2 chân trước hướng lên trời, lúc này số chân chạm đất của gà và chó đều bằng nhau, mỗi con 2 chân chạm đất, 36 con có $36x2=72$ chân, đề bài cho 100 chân, số chân còn thiếu là $100-72=28$ chân, số chân thiếu chính là số chân trước của chó đưa hướng lên trời mà mỗi con chó có 2 chân trước đưa hướng lên trời, vậy:
+- Các anh chỉ giả sử tất cả con có đưa 2 chân trước hướng lên trời, lúc này số chân chạm đất của gà và chó đều bằng nhau, mỗi con 2 chân chạm đất, 36 con có $36.2=72$ chân, đề bài cho 100 chân, số chân còn thiếu là $100-72=28$ chân, số chân thiếu chính là số chân trước của chó đưa hướng lên trời mà mỗi con chó có 2 chân trước đưa hướng lên trời, vậy:
   - Số con chó: $\frac{28}{2}=14$
   - Số con gà: $36-14=22$  
+
+## SỐ HỌC: ##
+![Số-học](https://github.com/BsNgChiThanh/so-tay-toan/assets/82578024/fb6c6f5b-82be-4b24-a6e6-8c14cef0eadb)
 
 ## DÃY SỐ: ##
 
