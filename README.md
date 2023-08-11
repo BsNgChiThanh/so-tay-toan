@@ -7,7 +7,7 @@
 **Giải:**
 
 - Bài toán này các anh chị giải đơn giản, chỉ trong 3 nốt nhạc.
-- Các anh chỉ giả sử tất cả con có đưa 2 chân trước hướng lên trời, lúc này số chân chạm đất của gà và chó đều bằng nhau, mỗi con 2 chân chạm đất, 36 con có $36.2=72$ chân, đề bài cho 100 chân, số chân còn thiếu là $100-72=28$ chân, số chân thiếu chính là số chân trước của chó đưa hướng lên trời mà mỗi con chó có 2 chân trước đưa hướng lên trời, vậy:
+- Các anh chỉ giả sử tất cả con có đưa 2 chân trước hướng lên trời, lúc này số chân chạm đất của gà và chó đều bằng nhau, mỗi con 2 chân chạm đất, 36 con có $36×2=72$ chân, đề bài cho 100 chân, số chân còn thiếu là $100-72=28$ chân, số chân thiếu chính là số chân trước của chó đưa hướng lên trời mà mỗi con chó có 2 chân trước đưa hướng lên trời, vậy:
   - Số con chó: $\frac{28}{2}=14$
   - Số con gà: $36-14=22$  
 
@@ -16,7 +16,7 @@
 **Giải:**
 
 - Ta thấy trung bình cộng điểm của một đội giải nhất và một đội giải ba chính là số điểm của một đội giải nhì.
-- Nếu số đội đạt giải nhất bằng số đội đạt giải ba thì tổng số điểm của cả 5 đội là: 29.5 = 145 (điểm) > 144 điểm, không thỏa mãn.
+- Nếu số đội đạt giải nhất bằng số đội đạt giải ba thì tổng số điểm của cả 5 đội là: 29×5 = 145 (điểm) > 144 điểm, không thỏa mãn.
 - Nếu số đội giải nhất nhiều hơn số đội giải ba thì tổng điểm 5 đội lớn hơn 145, cũng không thỏa mãn.
 - Do đó số đội giải nhất phải ít hơn số đội giải ba. Khi đó ta xếp một đội giải nhất và một đội giải ba làm thành một cặp thì cặp này sẽ có tổng số điểm bằng hai đội giải nhì. Số đội giải ba thừa ra (không được xếp cặp với một đội giải nhất) chính là số điểm mà tổng điểm của 5 đội nhỏ hơn 145. Vì vậy số đội giải ba nhiều hơn số đội giải nhất bao nhiêu thì tổng điểm của 5 đội sẽ nhỏ hơn 145 bấy nhiêu.
 - Vì tổng số điểm của cả 5 đội là 144 điểm nên số đội giải ba nhiều hơn số đội giải nhất là 145 - 144 = 1.
@@ -45,7 +45,40 @@
 - Gấp đôi sợi dây 3 lần ta sẽ được 8 đoạn dây bằng nhau, mỗi đoạn dài: $16:8=2m$
 - Cắt bỏ 3 đoạn, tức $3.2=6m$, đoạn còn lại sẽ là 10m.
 
+**Bài tập 6: Tôi đi bộ từ trường về nhà với vận tốc 5 km/giờ. Về đến nhà lập tức tôi đạp xe đến bưu điện với vận tốc 15 km/giờ. Biết rằng quãng đường từ nhà tới trường ngắn hơn quãng đường từ nhà đến bưu điện 3 km. Tổng thời gian tôi đi từ trường về nhà và từ nhà đến bưu điện là 1 giờ 32 phút. Bạn hãy tính quãng đường từ nhà tôi đến trường.**
+
+**Giải:**
+
+- Thời gian để đi 3 km bằng xe đạp là: $3:15=0,2$ (giờ)
+- Đổi: 0,2 giờ = 12 phút.
+- Nếu bớt 3 km quãng đường từ nhà đến bưu điện thì thời gian đi cả hai quãng đường từ nhà đến trường và từ nhà đến bưu điện (đã bớt 3 km) là: 1 giờ 32 phút - 12 phút = 1 giờ 20 phút = 80 phút.
+- Vận tốc đi xe đạp gấp vận tốc đi bộ là: $15:5=3$ (lần)
+- Khi quãng đường không đổi, vận tốc tỉ lệ nghịch với thời gian nên thời gian đi từ nhà đến trường gấp 3 lần thời gian đi từ nhà đến thư viện (khi đã bớt đi 3 km). Vậy: Thời gian đi từ nhà đến trường là: $80:(1+3)×3=60$ (phút) mà 60 phút = 1 giờ.
+- Quãng đường từ nhà đến trường là: $1×5=5$ (km).
+
+**Bài 7: Người ta lấy tích các số tự nhiên liên tiếp từ 1 đến 30 để chia cho 1000000. Bạn hãy cho biết: Phép chia có dư không? Thương là một số tự nhiên có chữ số tận cùng là bao nhiêu?**
+
+**Giải:**
+
+- Xét tích $A=1×2×3×...×29×30$, trong đó các thừa số chia hết cho 5 là 5, 10, 15, 20, 25, 30; mà 25 = 5 x 5 do đó có thể coi là có 7 thừa số chia hết cho 5. Mỗi thừa số này nhân với một số chẵn cho ta một số có tận cùng là số 0. Trong tích A có các thừa số là số chẵn và không chia hết cho 5 là: 2, 4, 6, 8, 12, . . . , 26, 28 (có 12 số).
+- Như vật trong tích A có ít nhất 7 cặp số có tích tận cùng là 0, do đó tích A có tận cùng là 7 chữ số 0.
+- Số 1000000 có tận cùng là 6 chữ số 0 nên A chia hết cho 1000000 và thương là số tự nhiên có tận cùng là chữ số 0.
+
+**Bài tập 7: Hai chú cò đang bay gặp một đàn vịt trời bay ngang qua, một chú cò bèn cất tiếng chào: "Chào 2 trăm bạn vịt". Chú vịt đầu đàn bèn trả lời: "Cò ơi bạn nhầm rồi! Chúng tôi thêm $\frac{1}{2}$ chúng tôi và thêm cả các bạn nữa mới đủ hai trăm cơ ". Chú Cò còn lại đã nhẩm tính ra nhưng không biết giải thích làm sao cho bạn mình hiểu. Nào các bạn nhỏ ơi hãy cùng chung tay giúp hai chú Cò giải toán nhé!**
+
+**Giải:**
+
+- Tôi cộng thêm $\frac{1}{2}$ chúng tôi được $\frac{3}{2}$ chúng tôi.
+- Mà $\frac{3}{2}$ chúng tôi + 2 bạn cò = 200
+- Vậy: Một phần chúng tôi sẽ là: $(200-2)×2:3=132$ con.
+
 ## SỐ HỌC: ##
+
+- Chữ số tận cùng của 1 tổng bằng chữ số tận cùng của tổng các chữ số hàng đơn vị của các số hạng trong tổng ấy.
+- Chữ số tận cùng của 1 tích bằng chữ số tận cùng của tích các chữ số hàng đơn vị của các thừa số trong tích ấy.
+- Tổng $1+2+3+4+...+9$ có chữ số tận cùng bằng 5.
+- Tích $1×3×5×7×9$ có chữ số tận cùng bằng 5.
+
 ![Số-học](https://github.com/BsNgChiThanh/so-tay-toan/assets/82578024/fb6c6f5b-82be-4b24-a6e6-8c14cef0eadb)
 
 ## DÃY SỐ: ##
