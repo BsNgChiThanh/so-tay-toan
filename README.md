@@ -76,11 +76,11 @@
 
 **Giải:**
 
-- Lần 1: Quảng đường đi được 100 m
-- Lần 2: Quảng đường đi được $100.\frac{40}{100}.2=80$ m (Vì nó lên 40% thì nó rơi xuống cũng 40%, tương tự:
-- Lần 3: Quảng đường đi được $80.\frac{1}{2}.\frac{40}{100}.2=32$ m (lần đi lên bằng 40% của một nữa lần 2 ở trên do không tính lần đi xuống của lần 2) 
-- Lần 4: Quảng đường đi được $32.\frac{1}{2}.\frac{40}{100}.2=12,8$ m
-- Lần 5: Quảng đường đi được $12,8.\frac{1}{2}.\frac{40}{100}.2=5,12$ m
+- Lần 1: Quảng đường đi được 100 m (lần đầu 100 m)
+- Lần 2: Quảng đường đi được $100.\frac{40}{100}.2=80$ m (Vì nó lên 40% thì nó rơi xuống cũng 40%, nhưng lần thứ 2 trái bóng rơi từ độ cao 40m, tương tự:
+- Lần 3: Quảng đường đi được $40.\frac{40}{100}.2=32$ m (lần thứ 3 rơi từ độ cao 16m) 
+- Lần 4: Quảng đường đi được $16.\frac{40}{100}.2=12,8$ m (lần thứ 4 rơi từ độ cao 6,4 m)
+- Lần 5: Quảng đường đi được $6,4.\frac{40}{100}.2=5,12$ m  
 - Đáp số cộng 5 lần ta có được quảng đường: $100+80+32+12,8+5,12=229,92$ m
 
 ## SỐ HỌC: ##
