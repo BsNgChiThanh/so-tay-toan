@@ -118,8 +118,7 @@ Hỏi bao nhiêu nam, nữ tắm bên sông?
 
 **Giải:**
 
-
-
+![Untitled-1](https://github.com/BsNgChiThanh/so-tay-toan/assets/82578024/8b64912b-3d36-4374-8e87-d3ad633b37ab)
 
 ## SỐ HỌC: ##
 
