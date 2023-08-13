@@ -83,6 +83,44 @@
 - Lần 5: Quảng đường đi được $6,4.\frac{40}{100}.2=5,12$ m  
 - Đáp số cộng 5 lần ta có được quảng đường: $100+80+32+12,8+5,12=229,92$ m
 
+**Bài tập 8: Tuổi ông của Nam, bố của Nam và tuổi của Nam có sự trùng hợp lí thú là: nếu đổi chỗ các chữ số của số chỉ tuổi ông cho nhau thì sẽ được số chỉ tuổi bố; Nếu cộng các chữ số của số chỉ tuổi bố hoặc ông của Nam sẽ được số chỉ tuổi Nam. Tính số tuổi của mỗi người? Biết rằng tuổi của ông là số chẵn < 100 và tổng số tuổi của 3 người = 144.**
+
+**Giải:**
+
+- Gọi tuổi ông là **ab**. Vậy:
+- Tuổi bố là: **ba**.
+- Tuổi của Nam sẽ là: **a+b**.
+- Theo đề bài ra ta có:
+  - **ab+ba+(a+b)=144 tuổi.**
+  - **(10.a+b)+(10.b+a)+(a+b)=144**
+  - **12.a+12.b=12(a+b)=144**
+  - Vậy: **(a+b)=144:12=12**. Vậy tuổi của Nam là 12.
+  - Tuổi của ông là số chẵn nên suy ra: b có thể là 0,2,4,6,8.
+
+ |b|a|Diễn giải|
+ |--|--|--|
+ |b=0|a=12|Loại do a có giá trị từ 0 đến 9|
+ |b=2|a=10|Loại do a có giá trị từ 0 đến 9|
+ |b=4|a=8|Thỏa mãn đề bài|
+ |b=6|a=6|Không thỏa mãn vì tổi ông 66, tuổi bố cũng 66|
+ |b=8|a=4|Không thỏa mãn do tuổi cha lớn hơn tuổi ông|
+
+  Đáp số: Ông 84 tuổi, bố 48 tuổi, Nam 12 tuổi.
+
+**Bài tập 9:**
+  
+  - Một đoàn nam nữ tắm bên sông
+  - To nhỏ bàn nhau chuyện vợ chồng
+  - 1 thiếp 2 chàng thừa 10 mị
+  - 1 chàng 2 thiếp thiếu 5 cô.
+
+Hỏi bao nhiêu nam, nữ tắm bên sông?
+
+**Giải:**
+
+
+
+
 ## SỐ HỌC: ##
 
 - Chữ số tận cùng của 1 tổng bằng chữ số tận cùng của tổng các chữ số hàng đơn vị của các số hạng trong tổng ấy.
