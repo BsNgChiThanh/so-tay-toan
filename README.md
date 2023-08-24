@@ -120,6 +120,50 @@ Hỏi bao nhiêu nam, nữ tắm bên sông?
 
 ![Untitled-1](https://github.com/BsNgChiThanh/so-tay-toan/assets/82578024/8b64912b-3d36-4374-8e87-d3ad633b37ab)
 
+**Bài tập 10:**
+
+Quýt, cam mười bảy quả tươi
+
+Đem chia cho một trăm người cùng vui
+
+Chia ba mỗi quả quýt rồi
+
+Còn cam mỗi quả chia mười vừa xinh
+
+Trăm người, trăm miếng ngọt lành
+
+Quýt, cam mỗi loại tính rành là bao?
+
+**Giải:**
+
+- Giả sử cam và quýt đều chia làm ba, ta có số miếng là: $17×3=51$.
+- Số miếng còn thiếu chính là cam: $100-51=49$, mà mổi quả cam còn thiếu 7 miếng, suy ra số trái cam là: $49:7=7$.
+- Đáp số:
+  - Cam: 7 quả.
+  - Quýt: $17-7=10$ quả.
+
+**Bài tập 11: Một đàn vịt không quá 200 con.**
+
+Bác kia chăn vịt khác thường
+
+Buộc đi cho được chẵn hàng mới ưa
+
+Hàng 2 xếp thấy chưa vừa
+
+Hàng 3 xếp vẫn còn thừa một con
+
+Hàng 4 xếp vẫn chưa tròn
+
+Hàng 5 xếp thiếu một con mới đầy 
+
+Xếp thành hàng 7, đẹp thay
+
+Vịt bao nhiêu? Tính được ngay mới tài.
+
+**Giải:**
+
+......
+                               
 ## SỐ HỌC: ##
 
 - Chữ số tận cùng của 1 tổng bằng chữ số tận cùng của tổng các chữ số hàng đơn vị của các số hạng trong tổng ấy.
